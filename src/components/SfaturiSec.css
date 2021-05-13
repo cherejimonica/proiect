@@ -1,0 +1,7 @@
+.accordeon .box {
+  padding: 1em;
+}
+
+.accordeon .box.active .body {
+  display: block;
+}
